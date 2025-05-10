@@ -1,5 +1,5 @@
 //your code here!
-const listContainer = document.getElementById('list'); // Assuming your list has id="list"
+const listContainer = document.getElementById('infi-list'); // Assuming your list has id="list"
 let itemCount = 0;
 
 // Function to add list items
